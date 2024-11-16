@@ -1,2 +1,14 @@
-# dhcpv6-rs
-This library provides a demonstration of how to use DHCPv6 Prefix Delegation (DHCPv6-PD) to allocate unique IPv6 prefixes to individual clients in large broadcast networks. It is based on the concepts described in [RFC 9663](https://datatracker.ietf.org/doc/rfc9663/).
+# DHCPv6 RFC Demonstration Library
+
+
+
+## Purpose
+- Demonstrates the use of DHCPv6-PD for assigning unique IPv6 prefixes in large-scale networks.
+- Highlights the interaction between DHCPv6 clients and servers during prefix delegation.
+
+## Features
+- Implements basic prefix allocation and management.
+
+
+## Disclaimer
+This library is for educational purposes only and should not be used in real-world deployments.
